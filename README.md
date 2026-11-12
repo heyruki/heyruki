@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Haruki!
 
-<!--
-**heyruki/heyruki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Customer Success and GTM, currently at fileAI. Previously at Meta, LinkedIn and Kiln.
 
-Here are some ideas to get you started:
+I build practical AI workflows as a non-technical user, and I share what works so more people can get immersed into AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Two things on my mind right now
+- **Grok Bot team**: a set of specialist AI assistants that help run everyday life and work.
+- **AI for content**: modern video creatives using Generative AI.
+
+## What I care about
+AI is creating a usage gap. I think community, where people share ideas and real use cases, is what closes it, especially for non-technical users in Singapore and Japan.
+
+## Find me
+- X: [@heyheyruki](https://x.com/heyheyruki)
